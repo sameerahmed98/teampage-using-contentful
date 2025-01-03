@@ -1,0 +1,6 @@
+.card img {
+    max-height: 500px;
+    object-fit: cover;
+    min-height: 500px;
+    object-position: center;
+}
